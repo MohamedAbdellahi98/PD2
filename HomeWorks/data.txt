@@ -1,0 +1,10 @@
+Mohamed	1	100
+Ali	2	10
+Ahmed	3	90
+Kamal	4	20
+Mert	5	80
+Ibrahim	6	30
+Fal	7	70
+Caner	8	60
+Walid	9	40
+Zafer	10	50
